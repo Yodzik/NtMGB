@@ -1,0 +1,2 @@
+# NtMGB
+minigame bot
